@@ -8,7 +8,7 @@ I am a Full-Stack developer focused around .NET web technologies and React. I en
 
 * 🌍  I'm based in Poland
 * 🌐  I'm working remotely for Cracow/Oslo
-* 🚀  I'm currently working on [DuoMore - Duolingo Dashboard](http://https://witty-bay-08face110.1.azurestaticapps.net)
+* 🚀  I'm currently working on [DuoMore - Duolingo Dashboard](https://witty-bay-08face110.1.azurestaticapps.net)
 * 🧠  I'm learning Optimizely
 * 🤝  I'm open to collaborating on .NET / React libraries
 
