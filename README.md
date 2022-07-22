@@ -11,6 +11,7 @@ I am a Full-Stack developer focused around .NET web technologies and React. I en
 * 🚀  I'm currently working on [DuoMore - Duolingo Dashboard](https://witty-bay-08face110.1.azurestaticapps.net)
 * 🧠  I'm learning Optimizely
 * 🤝  I'm open to collaborating on .NET / React libraries
+* :video_game:  For Pokémon fans [Pokémon Move Translator](https://poke-move-translator.netlify.app)
 
 ### Skills
 
