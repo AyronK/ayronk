@@ -30,7 +30,7 @@ I am a Full-Stack developer focused around .NET web technologies and React. I en
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ayron"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/ayron"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ### Socials
 
