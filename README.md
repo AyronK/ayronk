@@ -7,7 +7,6 @@ Hi 👋 I'm Marcin (Ayron)
 I am a Full-Stack developer focused around .NET web technologies and React. I enjoy having insights on the entire development path. I value quality. Not only in code but also end-user experience. I have also a brief background with Data Science and Game Development... and a thirst for knowledge - anything new sounds interesting!
 
 * 🌍  I'm based in Poland
-* 🌐  I'm working remotely for Cracow/Oslo
 * 🚀  I'm currently working on [100 Days CSS Challenge](https://ayronk.github.io/my-web-moodboard/)
 * 🧠  I'm learning Optimizely
 * 🤝  I'm open to collaborating on .NET / React libraries
