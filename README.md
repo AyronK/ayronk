@@ -7,8 +7,8 @@ Hi 👋 I'm Marcin (Ayron)
 I am a Full-Stack developer focused around .NET web technologies and React. I enjoy having insights on the entire development path. I value quality. Not only in code but also end-user experience. I have also a brief background with Data Science and Game Development... and a thirst for knowledge - anything new sounds interesting!
 
 * 🌍  I'm based in Poland
-* 🚀  I'm currently working on [100 Days CSS Challenge](https://ayronk.github.io/my-web-moodboard/)
-* 🧠  I'm learning Optimizely
+* 🚀  I'm currently working on [100 Days CSS Challenge](https://ayronk.github.io/my-web-moodboard/) and organizing my porfolio
+* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on .NET / React libraries
 * :video_game:  For Pokémon fans [Pokémon Move Translator](https://poke-move-translator.netlify.app)
 
@@ -31,13 +31,3 @@ I am a Full-Stack developer focused around .NET web technologies and React. I en
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/ayron"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/AyronK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.twitter.com/AyronMK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/marcin-kotlicki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.stackoverflow.com/users/8444254/ayron" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.medium.com/@AyronK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-</p>
