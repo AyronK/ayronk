@@ -13,8 +13,9 @@ I am a Full-Stack developer focused around .NET web technologies and React. I en
 * :video_game:  For Pokémon fans [Pokémon Move Translator](https://poke-move-translator.netlify.app)
 
 ### Websites
-![image](https://github.com/AyronK/ayronk/assets/26150059/6f57729a-3644-46fa-a33e-59eb4dab6ec8)  
-[ARPG Timeline](https://arpg-timeline.ayronk.com/)  
+![image](https://arpg-timeline.com/assets/seoimage.png)  
+[ARPG Timeline](https://arpg-timeline.com) - Stay ahead in your favorite ARPGs with the season tracker.
+Never miss a season start or end again!
 
 ### Skills
 
