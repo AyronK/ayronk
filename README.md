@@ -1,20 +1,20 @@
 Hi 👋 I'm Marcin (Ayron)
 =======================
 
-.NET and React Developer
+.NET/React/Next.js Developer
 ------------------------
 
 I am a Full-Stack developer focused around .NET web technologies and React. I enjoy having insights on the entire development path. I value quality. Not only in code but also end-user experience. I have also a brief background with Data Science and Game Development... and a thirst for knowledge - anything new sounds interesting!
 
 * 🌍  I'm based in Poland
-* 🚀  I'm currently working on [ARPG Timeline](https://arpg-timeline.com) and organizing my porfolio
+* 🚀  I'm currently working on [aRPG Timeline](https://www.arpg-timeline.com) and organizing my porfolio
 * 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on .NET / React libraries
+* 🤝  I'm open to collaborating on .NET / Next.js / React libraries
 * :video_game: For aRPG fans - [ARPG Timeline](https://arpg-timeline.com) and for Pokémon fans [Pokémon Move Translator](https://poke-move-translator.netlify.app)
 
 ### Websites
 ![image](https://arpg-timeline.com/assets/seoimage.png)  
-[ARPG Timeline](https://arpg-timeline.com) - Stay ahead in your favorite ARPGs with the season tracker.
+[ARPG Timeline](https://www.arpg-timeline.com) - Stay ahead in your favorite ARPGs with the season tracker.
 Never miss a season start or end again!
 
 ### Skills
