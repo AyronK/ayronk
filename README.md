@@ -14,7 +14,7 @@ I am a Full-Stack developer focused around .NET web technologies and React. I en
 
 ### Websites
 ![image](https://arpg-timeline.com/assets/seoimage.png)  
-[ARPG Timeline](https://www.arpg-timeline.com) - Stay ahead in your favorite ARPGs with the season tracker.
+[aRPG Timeline](https://www.arpg-timeline.com) - Stay ahead in your favorite aRPGs with the season tracker.
 Never miss a season start or end again!
 
 ### Skills
