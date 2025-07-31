@@ -12,6 +12,11 @@ I am a Full-Stack developer focused around .NET web technologies and React. I en
 * 🤝  I'm open to collaborating on .NET / Next.js / React libraries
 * :video_game: For aRPG fans - [aRPG Timeline](https://www.arpg-timeline.com) and for Pokémon fans [Pokémon Move Translator](https://poke-move-translator.netlify.app)
 
+### Support Me
+
+<a href="https://www.patreon.com/AyronK"><img src="https://img.shields.io/badge/Support_on_Patreon-test2?style=for-the-badge&color=grey&logo=patreon" alt="Support on Patreon"></a>
+<a href="https://coff.ee/ayron"><img src="https://img.shields.io/badge/Buy_me_a_coffee-test2?style=for-the-badge&color=grey&logo=buymeacoffee" alt="Buy me a coffee"></a>  
+
 ### Websites
 ![image](https://arpg-timeline.com/assets/seoimage.png)  
 [aRPG Timeline](https://www.arpg-timeline.com) - Stay ahead in your favorite aRPGs with the season tracker.
@@ -35,7 +40,3 @@ Never miss a season start or end again!
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AyronK"><img src="https://github-readme-stats.vercel.app/api?username=AyronK&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="AyronK's GitHub stats" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/ayron"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
